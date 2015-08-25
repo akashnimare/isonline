@@ -1,5 +1,5 @@
 ## Installation
-pip install isonline
+> pip install isonline
 
 ## Usage
 <img src="pic.png">
